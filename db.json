@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Tom",
+            "carId": 1
+        },
+        {
+            "id": 2,
+            "name": "Jerry",
+            "carId": 2
+        }
+    ],
+    "cars": [
+        {
+            "id": 1,
+            "name": "BMV"
+        },
+        {
+            "id": 2,
+            "name": "MEC"
+        }
+    ]
+}
